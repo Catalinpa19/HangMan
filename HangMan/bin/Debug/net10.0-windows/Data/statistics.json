@@ -1,0 +1,38 @@
+[
+  {
+    "Username": "Leo",
+    "Categories": {
+      "All Categories": {
+        "GamesPlayed": 1,
+        "GamesWon": 0
+      }
+    }
+  },
+  {
+    "Username": "Warrior",
+    "Categories": {
+      "Movies": {
+        "GamesPlayed": 1,
+        "GamesWon": 0
+      }
+    }
+  },
+  {
+    "Username": "jaguaru",
+    "Categories": {
+      "Cars": {
+        "GamesPlayed": 1,
+        "GamesWon": 0
+      }
+    }
+  },
+  {
+    "Username": "Spider",
+    "Categories": {
+      "Animals": {
+        "GamesPlayed": 1,
+        "GamesWon": 0
+      }
+    }
+  }
+]

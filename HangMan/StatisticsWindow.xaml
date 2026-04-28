@@ -1,0 +1,19 @@
+﻿<Window x:Class="HangMan.StatisticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Statistics"
+        Height="500"
+        Width="700"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <DataGrid ItemsSource="{Binding Rows}" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Username" Binding="{Binding Username}" Width="*" />
+                <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="*" />
+                <DataGridTextColumn Header="Games Played" Binding="{Binding GamesPlayed}" Width="*" />
+                <DataGridTextColumn Header="Games Won" Binding="{Binding GamesWon}" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

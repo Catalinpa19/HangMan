@@ -1,0 +1,22 @@
+[
+  {
+    "Username": "Leo",
+    "ImagePath": "Data/Images/lion.jpg"
+  },
+  {
+    "Username": "Spider",
+    "ImagePath": "Data/Images/spider.jpg"
+  },
+  {
+    "Username": "Warrior",
+    "ImagePath": "Data/Images/warrior.jpg"
+  },
+  {
+    "Username": "jaguaru",
+    "ImagePath": "Data\\Images\\game.jpg"
+  },
+  {
+    "Username": "kkds",
+    "ImagePath": "Data\\Images\\lion.jpg"
+  }
+]

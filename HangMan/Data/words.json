@@ -1,0 +1,8 @@
+{
+  "Animals": [ "LION", "TIGER", "ELEPHANT", "MONKEY" ],
+  "Games": [ "METIN", "VALORANT", "FORTNITE", "MINECRAFT" ],
+  "Movies": [ "TITANIC", "INCEPTION", "GLADIATOR" ],
+  "Cars": [ "AUDI", "BMW", "TESLA", "FERRARI" ],
+  "Rivers": [ "DANUBE", "AMAZON", "NILE" ]
+  
+}
